@@ -9,7 +9,7 @@ class ListviewSeparatedScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('ListView Static'),
+        title: const Text('ListView Separated'),
       ),
       body: ListView.separated(
           padding: const EdgeInsets.symmetric(vertical: 16),
